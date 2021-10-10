@@ -215,10 +215,6 @@ def main():
                 text_file.close()
 
 
-
-
-
-
 if __name__ == '__main__':
 
     try:
@@ -229,29 +225,4 @@ if __name__ == '__main__':
         ctypes.windll.user32.MessageBoxW(0, "         Something went wrong", "Message", 0)
         pass
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
